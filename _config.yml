@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BIPS! Bitcoin in Pictures & Stories
-email: bitcoin.in.pictures.stories@gmail.com
+title: Humans.Institute
+email: petewinn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bitcoin is really complex. Pictures and stories are nice and simple. 
-  We'll try to demystify the technical and economic concepts in bitcoin, whilst having some fun.
+  Technology for Humans.  Bitcoin for Humans. A space to develop our future.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bips.rocks" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://humans.institute" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pete_winn
-github_username:  bipsrocks
+github_username:  humansinstitute
 show_excerpts: true
 google_analytics: UA-138870248-1
 
