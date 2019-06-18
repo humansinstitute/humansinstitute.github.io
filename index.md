@@ -14,8 +14,10 @@ So the purpose of the Humans.Institute is to begin building content to make this
 
 We believe the biggest shift in progress right now, is the seperation of money and state.  We believe this will have far reaching consequences.  As such we will be focusing initial efforts on the applicaitons of models and design to support **bitcoin** in this goal.
 
+<div class="inline-pic">  
 ![Bitcoin4.Humans](/assets/images/bitcoin-humans.png)
 {:.inline-pic}
+</div>
 
 All material on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
 
