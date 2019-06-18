@@ -1,0 +1,62 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-title { 
+    padding: 10px 0px;
+    text-align: center;
+}
+.img-title {
+    width: 60%;
+    height:auto;
+}
+.site-nav {
+    float: none;
+    line-height: 36px;
+}
+.trigger {
+    text-align: center;
+}
+
+p {
+    padding: 3px 0 3px 0;
+}
+
+blockquote {
+    text-align: center;
+    padding: 10px;
+}
+
+.post-link {
+    color: #333333;
+    font-size: 24px;
+}
+a {
+    color: #1756a9;
+}
+.post-list-heading {
+    padding: 0 0 10px 0;
+}
+
+.caption {
+    font-size: 0.8em;
+    text-align: center;
+    color:#1756a9;
+}
+.hr {
+    margin: 50px;
+}
+
+.footer-col2 {
+    float: right;
+}
+
+.post-pic {
+    float: none;
+    text-align: center;
+}
+.logo_div {
+    width: 100%;
+    clear: both;
+}

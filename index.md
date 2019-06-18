@@ -1,12 +1,28 @@
-## Humans.Institute
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-A selection of technolgies, scenarios, UX research and Design all provided opensource with the goal of building a new world. 
+layout: home
+list_title: New Pictures and Stories!
+---
 
+bitcoin is **pretty bloody complex**.  All of a sudden you're expected to know about; game theory, 
+economics, technology and cryptography just to figure out what's going on.
 
-### Jekyll Themes
+The good news is there's a truck load of content for you to consume as you fall deeper and deeper
+into this new wonderland.  The bad news is that a "truck load" is a lot of content and it gets confusing.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/humansinstitute/humansinstitute.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+So this site is all about taking these concepts and trying to explain them thorugh a series of 
+pictures and short stories, with a touch of humour if we can manage it. 
 
-### Support or Contact
+BIPS. **B**itcoin **I**n **P**ictures and **S**tories.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> If you don't believe me or don't get it, <s>I don't have time to try to convince you, sorry</s><br />
+> check out bips.rocks, it's awesome.
+<p class="caption">
+<a href="https://satoshi.nakamotoinstitute.org/posts/bitcointalk/287/#selection-47.202-51.1" target="_new">Satoshi Nakamoto, 2010 (paraprhased)</a></p>
+
+All freely licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). So feel free to take this, do you want and share it wherever it helps.
+
+---
+{:.hr} 
