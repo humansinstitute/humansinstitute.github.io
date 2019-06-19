@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Ancient Sumerians, Underpants, Fell Running and... bitcoins?"
+title: "A Bitcoin Origin Story"
 date: 2019-03-29
-permalink: /sumerians/
+permalink: /bitcoin-origin-story/
 ---
 
 Why did bitcoin require a proof of work blockchain? In one word, **Trust**.  In more words...
 
 Meet the hero of our story Dave. 
 
-![Hello I'm Dave](/assets/images/imdave.png)
+![Hello I'm Dave](/assets/images/sketch/imdave.png)
 {:.post-pic}
 
 Dave is an ancient Sumerian and he's just invented writing. 
@@ -26,7 +26,7 @@ This is going great says Dave, I know exactly how much Bitcoin I owe and how muc
 
 Over the next few months Dave teaches everyone to read (fuck me Dave you really are kicking goals) and everyone goes around trading goods and bitcoin with Dave writing it all down.  It seems like a good system until Jen...
 
-![Hello I'm Jen](/assets/images/imjen.png)
+![Hello I'm Jen](/assets/images/sketch/imjen.png)
 {:.post-pic}
 
  ...realises there's a problem.  We have to **trust** Dave and what if Dave changes what he wrote down, if he adds a zero she owes him 100 bitcoin and she's not sure she can trust him that much.
@@ -43,7 +43,7 @@ So over the course of many months Dave establishes a dialogue with the "barbaria
 
 The barbarian, he's called Phil of course...
 
-![Hi I'm Phil](/assets/images/imphil.png)
+![Hi I'm Phil](/assets/images/sketch/imphil.png)
 {:.post-pic}
 
 ...is understandably skeptical.

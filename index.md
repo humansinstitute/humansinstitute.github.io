@@ -6,21 +6,26 @@ layout: home
 list_title: Latest Thoughts
 ---
 
-At the Humans.Institute we believe that we do our best work, when we remember that we're Humans.  We believe that we build our best tech when we remember, we're building it for Humans.  We believe that money, society and politics work best when they work for Humans.  
+There were humans, they lived in tribes and they had a simple motto…  
+>“You guys are cool we’ll look after each other and help each other out in times of need... <br />but f*%k those guys over the hill, we’ll kill them…”
 
-But we also know from first hand experience it can be hard to keep this in mind when working on something big.
+But they met those tribes and did the dance of the two backed beast. They became villages which became city states with the motto:  “You guys are cool we’ll look after each other and help each other out in times of need... but f*%k the guys in that city, we will kill them…”
 
-So the purpose of the Humans.Institute is to begin building content to make this easier.  We want to build a repo of Complex Systems Models, UX research, Prototype Designs, Technical Designs and Implementations to apply leverage, when you want to tackle a big problem.
+Better, but not great.  But as time passes more sex is had and our circle is geting wider bit the motto still feels familiar:  “Ok, you guys with my ideology/religion/geopgraphy are fine, we’ll look after each other... but those others with that ideology/religion/geography can f*%k right off!”
 
-We believe the biggest shift in progress right now, is the seperation of money and state.  We believe this will have far reaching consequences.  As such we will be focusing initial efforts on the applicaitons of models and design to support **bitcoin** in this goal.
+We’re getting better, but at The Humans Institute, we want to see a world where technology help's us realise some of the promises of global capitalism, as summarised in the following motto..
+
+>“Ok, we’re all humans and we’re all cool.  We’re going to just work together and look after each other… <br />But of course those fuckers on Mars…”
+
+---
+{:.hr} 
+
+This is the journey we’re on at the Humans.institute.  A journey leveraging technology to bring us closer together as a species and we invite you to be the hero of this story. 
+
+Our flagship project is bitcoin4Humans and we’d love you to get involved.
 
 <div class="inline-div">  
-    <img src="/assets/images/bitcoin-humans.png" class="inline-pic">
+<img src="/assets/images/bitcoin-humans.png" class="inline-pic">
 </div>
-
-All material on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
-
-So feel free to take this, do you want and share it wherever it helps.
-
 ---
 {:.hr} 

@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Creative Commons
-permalink: /about/
+title: The Framework
+permalink: /framework/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You may very well ask yourself. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+>"What the hell is open source thinking?"
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My quickest answer is a short story.
 
+For the last 20 years I've harboured some guilt. That guilt is that I feel I've never given back, it's about all take and no give and the mistress Ive mistreated has been open source.
 
-[jekyll-organization]: https://github.com/jekyll
+For over two decades I've used (with varying success and staying power!) open source software and operating systems and read extensively from Project Gutenburg Texts and Createive Commons books (long live Cory Doctorow). 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">bips.rocks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bips.rocks" property="cc:attributionName" rel="cc:attributionURL">Pete Winn</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://bips.rocks" rel="dct:source">https://bips.rocks</a>.
+Unfortuntely I've never foundn an adequate way to contribute. Despite having spent two decades getting along well in IT, startegy and consulting these didn;t appear to be skills in demand (who needs advice and management when you're following your heart right?).
+
+So I've finally decided to 

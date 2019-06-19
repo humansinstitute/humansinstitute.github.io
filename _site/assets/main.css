@@ -222,3 +222,7 @@ a { color: #1756a9; }
 .post-pic { float: none; text-align: center; }
 
 .logo_div { width: 100%; clear: both; }
+
+.inline-pic { float: none; text-align: center; width: 60%; height: auto; padding: 40px 0; }
+
+.inline-div { width: 100%; text-align: center; }

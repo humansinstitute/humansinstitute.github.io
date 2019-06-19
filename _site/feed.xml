@@ -1,24 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-30T20:56:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BIPS! Bitcoin in Pictures &amp;amp; Stories</title><subtitle>Bitcoin is really complex. Pictures and stories are nice and simple.  We'll try to demystify the technical and economic concepts in bitcoin, whilst having some fun.</subtitle><entry><title type="html">HTLCs - a box, 2 locks and a wall</title><link href="http://localhost:4000/htlc/" rel="alternate" type="text/html" title="HTLCs - a box, 2 locks and a wall" /><published>2019-04-30T00:00:00+08:00</published><updated>2019-04-30T00:00:00+08:00</updated><id>http://localhost:4000/HTLC-Hash-Time-Lock-Contracts</id><content type="html" xml:base="http://localhost:4000/htlc/">&lt;p&gt;Hash time lock contracts keep coming up at the moment, so I figured it might be worth a quick video to try and explain whats going on.&lt;/p&gt;
-
-&lt;p&gt;Here’s another quick whiteboard, still getting used to recording these so if there’s any advice, feedback or something you think I’ve moissed let me know and I’ll have another go. As always opefully this is useful and its under creative commons so distribute, remix and share away :)&lt;/p&gt;
-
-&lt;p class=&quot;post-pic&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hs79R8kd_70&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Get in touch with any feedback to: &lt;a href=&quot;mailto:bitcoin.in.pictures.stories@gmail.com&quot;&gt;bitcoin.in.pictures.stories@gmail.com&lt;/a&gt; and I can always recorded again at a later date and update anything technical I got wrong.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hash time lock contracts keep coming up at the moment, so I figured it might be worth a quick video to try and explain whats going on.</summary></entry><entry><title type="html">Loop out, or why can’t I receive funds on lightning</title><link href="http://localhost:4000/loopout/" rel="alternate" type="text/html" title="Loop out, or why can't I receive funds on lightning" /><published>2019-04-23T00:00:00+08:00</published><updated>2019-04-23T00:00:00+08:00</updated><id>http://localhost:4000/Loop_Out_Why_cant_I_Receive_lightning</id><content type="html" xml:base="http://localhost:4000/loopout/">&lt;p&gt;So I was listening to the excellent discussion bewteen &lt;a href=&quot;https://stephanlivera.com/episode/68&quot;&gt;Stephan Livera and Joost Jager&lt;/a&gt; on loop out and whilst this gave an excellent overview of the concept I felt I really needed to draw this out to understand how the flow worked and how it was made trustless.&lt;/p&gt;
-
-&lt;p&gt;The following quick whiteboard recording is how I thought through this, hopefully this is useful and as always its under creative commons so feel free to share away :)&lt;/p&gt;
-
-&lt;p class=&quot;post-pic&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rOX_nhq-ZY0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;First time recording one of these, so if it’s a little rough around the edges or you have question let me know at: &lt;a href=&quot;mailto:bitcoin.in.pictures.stories@gmail.com&quot;&gt;bitcoin.in.pictures.stories@gmail.com&lt;/a&gt; and I can always recorded again at a later date and update anything technical I got wrong.&lt;/p&gt;</content><author><name></name></author><summary type="html">So I was listening to the excellent discussion bewteen Stephan Livera and Joost Jager on loop out and whilst this gave an excellent overview of the concept I felt I really needed to draw this out to understand how the flow worked and how it was made trustless.</summary></entry><entry><title type="html">Ancient Sumerians, Underpants, Fell Running and… bitcoins?</title><link href="http://localhost:4000/sumerians/" rel="alternate" type="text/html" title="Ancient Sumerians, Underpants, Fell Running and... bitcoins?" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/Ancient-Sumerians-Underpants-bitcoins</id><content type="html" xml:base="http://localhost:4000/sumerians/">&lt;p&gt;Why did bitcoin require a proof of work blockchain? In one word, &lt;strong&gt;Trust&lt;/strong&gt;.  In more words…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-19T13:19:06+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Humans.Institute</title><subtitle>Technology for Humans.  Bitcoin for Humans. A space to develop our future.</subtitle><entry><title type="html">A Bitcoin Origin Story</title><link href="http://localhost:4000/bitcoin-origin-story/" rel="alternate" type="text/html" title="A Bitcoin Origin Story" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/What-Is-bitcoin</id><content type="html" xml:base="http://localhost:4000/bitcoin-origin-story/">&lt;p&gt;Why did bitcoin require a proof of work blockchain? In one word, &lt;strong&gt;Trust&lt;/strong&gt;.  In more words…&lt;/p&gt;
 
 &lt;p&gt;Meet the hero of our story Dave.&lt;/p&gt;
 
-&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imdave.png&quot; alt=&quot;Hello I'm Dave&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/sketch/imdave.png&quot; alt=&quot;Hello I'm Dave&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dave is an ancient Sumerian and he’s just invented writing.&lt;/p&gt;
 
@@ -36,7 +20,7 @@
 
 &lt;p&gt;Over the next few months Dave teaches everyone to read (fuck me Dave you really are kicking goals) and everyone goes around trading goods and bitcoin with Dave writing it all down.  It seems like a good system until Jen…&lt;/p&gt;
 
-&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imjen.png&quot; alt=&quot;Hello I'm Jen&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/sketch/imjen.png&quot; alt=&quot;Hello I'm Jen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…realises there’s a problem.  We have to &lt;strong&gt;trust&lt;/strong&gt; Dave and what if Dave changes what he wrote down, if he adds a zero she owes him 100 bitcoin and she’s not sure she can trust him that much.&lt;/p&gt;
 
@@ -54,7 +38,7 @@
 
 &lt;p&gt;The barbarian, he’s called Phil of course…&lt;/p&gt;
 
-&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imphil.png&quot; alt=&quot;Hi I'm Phil&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/sketch/imphil.png&quot; alt=&quot;Hi I'm Phil&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…is understandably skeptical.&lt;/p&gt;
 
@@ -93,20 +77,4 @@ Buuutttt what if there’s differences, between them, how will we know who’s v
 
 &lt;p&gt;Phil didn’t trust the Sumerians, but he knew they were too lazy to climb all those mountains it was just too much work to cheat. So instead he just put his trust in this simple system, watched the hills to see if anyone started trying to cheat and verified the answers on his own self soveriegn clay tablet.&lt;/p&gt;
 
-&lt;p&gt;And that dear readers is the history of money.&lt;/p&gt;</content><author><name></name></author><summary type="html">Why did bitcoin require a proof of work blockchain? In one word, Trust. In more words…</summary></entry><entry><title type="html">Welcome to BIPS</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Welcome to BIPS" /><published>2019-03-28T00:00:00+08:00</published><updated>2019-03-28T00:00:00+08:00</updated><id>http://localhost:4000/Welcome-To-BIPS</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;blockquote&gt;
-  &lt;p&gt;“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m going to attribute this quote to almost everyone who once thought to themselves, “so I wonder what this bitcoin thing is all about” and then surfaced about six months later - you know who you are.&lt;/p&gt;
-
-&lt;p&gt;The purpose of this little website is to try and demystify some of the concepts in the bitcoin ecosystem through a series of pictures, white board explainers, annologies and short stories.  Hopefully with a little bit of humour thrown in.&lt;/p&gt;
-
-&lt;p&gt;I feel like I spend around about 1000 hours a day listening to podcasts reading articles and thinking critically about all this stuff, but in reality I know that I work best visually in front of a big whiteboard.&lt;/p&gt;
-
-&lt;p&gt;So with that in mind instead of trying to write ever more complex explainers in medium that I never publish, I figured I’d stick to the knitting and build a website of recorded whiteboard sessions and commedy anecdotes instead.&lt;/p&gt;
-
-&lt;p&gt;Why BIPS? Well its a pun on BIPS… but also stands for bitcoin in Pictures and Stories.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rabbithole.png&quot; alt=&quot;Rabbit Hole&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You see I said there’d be humour.&lt;/p&gt;</content><author><name></name></author><summary type="html">“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing”</summary></entry></feed>
+&lt;p&gt;And that dear readers is the history of money.&lt;/p&gt;</content><author><name></name></author><summary type="html">Why did bitcoin require a proof of work blockchain? In one word, Trust. In more words…</summary></entry></feed>
