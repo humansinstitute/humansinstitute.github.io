@@ -5,27 +5,28 @@
 layout: home
 list_title: Latest Thoughts
 ---
+The Humans Institute is a think tank, seeking to generate open source thinking on the major issues and opportunities affecting people in the world today. 
 
-There were humans, they lived in tribes and they had a simple motto…  
->“You guys are cool we’ll look after each other and help each other out in times of need... <br />but f*%k those guys over the hill, we’ll kill them…”
+We have three focus areas: **Energy**, **Bitcoin** and **Freedom**. 
 
-But they met those tribes and did the dance of the two backed beast. They became villages which became city states with the motto:  “You guys are cool we’ll look after each other and help each other out in times of need... but f*%k the guys in that city, we will kill them…”
+We believe all three are interrelated and that educating, empowering and guiding developments in these three areas will provide the highest leverage to improve livings standards for humans globally.
 
-Better, but not great.  But as time passes more sex is had and our circle is geting wider bit the motto still feels familiar:  “Ok, you guys with my ideology/religion/geopgraphy are fine, we’ll look after each other... but those others with that ideology/religion/geography can f*%k right off!”
+In order to contribute to these debates we intend to promote ****open source thinking**** in each of these areas of debate. 
 
-We’re getting better, but at The Humans Institute, we want to see a world where technology help's us realise some of the promises of global capitalism, as summarised in the following motto..
+This will take the form of curating and generating freely available and commercially re-usable assets under creative commons licensing framework.
 
->“Ok, we’re all humans and we’re all cool.  We’re going to just work together and look after each other… <br />But of course those fuckers on Mars…”
+Over time we will seek to monetise this HI, through private consulting engagements assisting entrepreneurs in developing products and services in line with these frameworks and developing orthogonal products and services which draw on our body of work.
+
+We expect each section to develop slowly, however if you’d like to contribute to speed things up please get in touch we’d be glad for your help.
 
 ---
 {:.hr} 
 
-This is the journey we’re on at the Humans.institute.  A journey leveraging technology to bring us closer together as a species and we invite you to be the hero of this story. 
+For each of our focus areas we will be focussing on three areas of 
 
-Our flagship project is bitcoin4Humans and we’d love you to get involved.
+* **Context:** Quick brief unstructured content you can soak up for context on this space, including curated links to other sources. 
+* **Thought:** More in-depth thinking exploring ideas that are developed in the context sections.
+* **Frameworks:** Design thinking frameworks for applying this knowledge in the world for  commercial enterprise and policy considerations.
 
-<div class="inline-div">  
-<img src="/assets/images/bitcoin-humans.png" class="inline-pic">
-</div>
 ---
 {:.hr} 
